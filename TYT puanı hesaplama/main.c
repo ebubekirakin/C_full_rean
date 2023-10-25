@@ -9,7 +9,7 @@ int main(int argc, char *argv[]) {
 float turkce,mat,sos,fen,puan1,puan2,dpl;
 
 
-printf(" *** TYT PUAN HESAPLAMA ARACI *** \n\n");
+printf(" **** TYT PUAN HESAPLAMA ARACI **** \n\n");
 
 printf("Turkce Netinizi Girin:");
 scanf("%f",&turkce);
