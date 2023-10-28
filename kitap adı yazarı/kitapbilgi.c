@@ -34,7 +34,5 @@ int main() {
 	printf("Turu:  %s",tur);
 	
 	
-	
-	
 	return 0;
 }
