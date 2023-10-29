@@ -28,17 +28,5 @@ printf("fibonacci serisinin 10. elemani = %d",s3);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 	return 0;
 }
