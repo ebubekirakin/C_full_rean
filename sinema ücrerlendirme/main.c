@@ -4,7 +4,7 @@
 
 int main(int argc, char *argv[]) {
 
-printf("***Sinema Ucretleri***\n\n");
+printf(" ***Sinema Ucretleri*** \n\n");
 	
 int misir,su,kola,bilet,toplam;
 
