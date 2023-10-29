@@ -20,6 +20,5 @@ printf("%d",faktoriyel);
 
 
 
-
 	return 0;
 }
