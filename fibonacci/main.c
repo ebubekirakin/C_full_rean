@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 
-
 int main(int argc, char *argv[]) {
 
 int s1,s2,s3,i;
