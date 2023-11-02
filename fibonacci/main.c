@@ -10,13 +10,14 @@ s2=1;
 
 printf("%d \n%d \n",s1,s2);
 for(i=1;i<=8;i++)
-{
-	
+{	
+
 s3=s1+s2;
 	
 s1=s2;
 s2=s3;	
 
+	
 printf("%d \n",s3);
 }
 
