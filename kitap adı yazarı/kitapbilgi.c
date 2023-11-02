@@ -4,6 +4,7 @@
 
 int main() {
 	
+	
 	char kitapad[10],yazar[15],sayfa[3],basimyil[4],basimevi[10],tur[10];
 	
 	printf("Kitap Adini Giriniz: ");
