@@ -40,6 +40,5 @@ printf("YERLESTIRME PUANINIZ: %f",puan2);
 
 
 
-
 	return 0;
 }
