@@ -33,6 +33,7 @@ int main() {
 	printf("Basim Yili:  %s\n",basimyil);
 	printf("Basimevi:  %s\n",basimevi);
 	printf("Turu:  %s",tur);
+
 	
 	
 	return 0;
