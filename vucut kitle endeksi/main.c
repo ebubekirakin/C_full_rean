@@ -1,15 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main(int argc, char *argv[]) {
 	
 	
 	
-	float kilo;
-    float boy;
-    float vki;
+float kilo;
+float boy;
+float vki;
 
 printf("Kilonuzu giriniz: ");
 scanf("%f",&kilo);
@@ -20,8 +19,8 @@ printf("Vucut kitle indeksiniz %.2f\n",vki);
 printf("Durumunuz: ");
 
 if(vki<=18.5){
-printf("Zayýf, ");
-printf("%.2f kilo almanýz gerekiyor",18.5*pow(boy/100,2-kilo));
+printf("ZayÃ½f, ");
+printf("%.2f kilo almanÃ½z gerekiyor",18.5*pow(boy/100,2-kilo));
 }
 
 else if(vki<=24.9){
@@ -44,7 +43,6 @@ printf("%.2f kilo vermeniz gerekiyor",kilo-24.9*pow(boy/100,2));
 	
 	
 		
-	
 	
 	
 	
