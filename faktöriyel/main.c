@@ -19,5 +19,6 @@ faktoriyel=faktoriyel*i;
 printf("%d",faktoriyel);
 
 
+	
 	return 0;
 }
