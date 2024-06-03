@@ -4,7 +4,6 @@
 
 int main(int argc, char *argv[]) {
 
-
 	
 float turkce,mat,sos,fen,puan1,puan2,dpl;
 
