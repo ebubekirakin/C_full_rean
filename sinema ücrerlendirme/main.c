@@ -29,6 +29,5 @@ printf("odeyeceginiz toplam ucret: %d TL",toplam);
 
 
 
-
 	return 0;
 }
